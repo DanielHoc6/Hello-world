@@ -1,2 +1,3 @@
 # Hello-world
-Tak
+Tak ale
+też i nie
